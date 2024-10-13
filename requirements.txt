@@ -1,0 +1,6 @@
+﻿Flask
+nltk
+spacy
+swifter
+# en-core-web-sm
+scikit-learn
